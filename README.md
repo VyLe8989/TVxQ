@@ -4,3 +4,4 @@ Cấu trúc thư mục:
 - TVxQ_Forecasting: chạy model học máy
 - submission: file kết quả nộp trên Kaggle
 - Trắc nghiệm Datathon_TVxQ: file chạy lệnh các câu trắc nghiệm
+- [DATATHON_2026]_Docs: file báo cáo pdf
